@@ -1,4 +1,4 @@
-# CloudGuard-AI: Autonomous Remediation for AWS
+# AI Security Scanner for AWS S3
 
 
 
